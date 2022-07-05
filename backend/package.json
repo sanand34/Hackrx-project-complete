@@ -1,0 +1,19 @@
+{
+  "name": "hackrx3",
+  "version": "1.0.0",
+  "description": "Bajaj Hackathon 2022",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanchit Anand",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0",
+    "pusher": "^5.1.0-beta"
+  }
+}
