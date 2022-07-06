@@ -30,7 +30,7 @@
 
   </p>
 </div>
-<img src="images/0001.jpg" alt="Logo">
+
 <img src="images/0002.jpg" alt="Logo">
 <img src="images/0003.jpg" alt="Logo">
 <img src="images/0004.jpg" alt="Logo">
