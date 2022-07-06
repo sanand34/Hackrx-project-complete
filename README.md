@@ -1,1 +1,46 @@
-# PS1_SilverFang
+<div id="top"></div>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/sanand34/Hackrx-project-complete">
+    <img src="images/silverfang.jpeg" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">PS1_SilverFang</h3>
+
+  <p align="center">
+   Setting up in App Nudges
+    <br />
+
+  </p>
+</div>
+<img src="images/0001.jpg" alt="Logo">
+<img src="images/0002.jpg" alt="Logo">
+<img src="images/0003.jpg" alt="Logo">
+<img src="images/0004.jpg" alt="Logo">
+<img src="images/0005.jpg" alt="Logo">
+<img src="images/0006.jpg" alt="Logo">
+<img src="images/0007.jpg" alt="Logo">
+<img src="images/0008.jpg" alt="Logo">
+<img src="images/0009.jpg" alt="Logo">
+<img src="images/0010.jpg" alt="Logo">
+<img src="images/0011.jpg" alt="Logo">
+<img src="images/0012.jpg" alt="Logo">
+<img src="images/0013.jpg" alt="Logo">
+<img src="images/0014.jpg" alt="Logo">
